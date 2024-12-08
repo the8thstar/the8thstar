@@ -12,7 +12,7 @@
 
 ###
 
-<h5 align="left">• 📔 A bored high school student from somewhere in the Philippines!<br>•  📚 I'm currently learning Python and C++.</h5>
+<p align="left">• 📔 A bored high school student from somewhere in the Philippines!<br>•  📚 I'm currently learning Python and C++.</p>
 
 ###
 
